@@ -175,6 +175,6 @@ Since this extension is not published on any browser store, you’ll need to loa
 
 | Name | Roll / ID |
 |---|---|
-|Eknoor Singh | IIT2024163 |
-| Vipul | IIT2024139 |
+|Sandeep Patidar| MNS2026001 |
+
 ---
